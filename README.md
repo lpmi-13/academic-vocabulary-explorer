@@ -62,6 +62,6 @@ well
 
 ## References
 
-This is the original article outlining the considerations for creation of the Academic Vocabular List:
+This is the original article outlining the considerations for creation of the Academic Vocabulary List:
 
 Gardner, D., & Davies, M. (2013). A new academic vocabulary list. Applied Linguistics, 35(3), 305-327.
