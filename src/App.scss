@@ -1,0 +1,10 @@
+$primary-color: #D46A6A;
+@import 'loaders.css/src/animations/line-scale.scss'
+
+.loader-hidden {
+  display: none;
+}
+
+.loader-active {
+  display: block;
+}

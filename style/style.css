@@ -1,0 +1,61 @@
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+  color: black;
+}
+
+.btn-primary {
+  margin: 10px;
+}
+
+.specific-word {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.quiz-item {
+  font-size: 1.35em;
+  font-weight: bold;
+}
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 75%;
+}
+
+.specific-word {
+  font-size: 1.85rem;
+}
+
+.word-item {
+  font-size: 1.2em;
+  width: 100%;
+  padding: 0.2em;
+}
+
+.word-item img {
+  max-width: 64px;
+}
+
+.word-detail, .details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.list-group-item {
+  cursor: pointer;
+  width: 95%;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
